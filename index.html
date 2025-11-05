@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PUBG IMAGES PORTAL - SiRJ0</title>
+<style>
+/* ===== Fonts ===== */
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+*{box-sizing:border-box;margin:0;padding:0;user-select:none;}
+body{
+  font-family:'Segoe UI',sans-serif;
+  background:#0e0e0e;color:#fff;
+  overflow-x:hidden;transition:background 0.6s,color 0.6s;
+}
+body.light{background:#fafafa;color:#111;}
+
+/* ===== Glitchy Title ===== */
+h1{
+  font-family:'VT323', monospace;
+  font-size:48px;
+  text-align:center;
+  position:relative;
+  color:#00ffff;
+  animation:glitch 1s infinite;
+  margin:20px 0;
+}
+h1::before,
+h1::after{
+  content: attr(data-text);
+  position:absolute;
+  left:0;top:0;
+  width:100%;
+  overflow:hidden;
+}
+h1::before{
+  text-shadow:2px 0 #ff0000,-2px -2px #ff9900;
+  animation:glitchTop 1s infinite linear alternate-reverse;
+}
+h1::after{
+  text-shadow:-2px 0 #00f,2px 2px #0ff;
+  animation:glitchBottom 1s infinite linear alternate-reverse;
+}
+@keyframes glitch{
+  0%,100%{text-shadow:2px 2px #00ffff,-2px -2px #ff00ff;}
+  25%{text-shadow:3px -1px #ff0000,-2px 2px #00ffff;}
+  50%{text-shadow:-2px 2 #ff9900,2px -2px #00f;}
+  75%{text-shadow:1px 2px #00ffff,-3px -1px #ff9900;}
+}
+@keyframes glitchTop{
+  0%{clip:rect(0,9999px,5px,0);transform:translate(-2px,-2px);}
+  25%{clip:rect(2px,9999px,8px,0);transform:translate(2px,2px);}
+  50%{clip:rect(1px,9999px,6px,0);transform:translate(-1px,1px);}
+  75%{clip:rect(3px,9999px,9px,0);transform:translate(1px,-1px);}
+  100%{clip:rect(0,9999px,5px,0);transform:translate(0,0);}
+}
+@keyframes glitchBottom{
+  0%{clip:rect(5px,9999px,10px,0);transform:translate(2px,1px);}
+  25%{clip:rect(6px,9999px,12px,0);transform:translate(-2px,-1px);}
+  50%{clip:rect(5px,9999px,11px,0);transform:translate(1px,2px);}
+  75%{clip:rect(7px,9999px,13px,0);transform:translate(-1px,-2px);}
+  100%{clip:rect(5px,9999px,10px,0);transform:translate(0,0);}
+}
+
+/* ===== Topbar & Toggle ===== */
+#topbar{
+  display:flex;justify-content:center;align-items:center;gap:20px;
+  position:sticky;top:0;background:rgba(0,0,0,0.6);
+  backdrop-filter:blur(8px);padding:12px;z-index:1000;
+}
+body.light #topbar{background:rgba(255,255,255,0.85);}
+
+.toggle-switch{
+  width:70px;height:34px;background:#222;border-radius:50px;position:relative;
+  cursor:pointer;display:flex;align-items:center;padding:4px;transition:background 0.4s ease;
+}
+body.light .toggle-switch{background:#ddd;}
+.switch-circle{
+  width:26px;height:26px;background:#fff;border-radius:50%;position:absolute;
+  left:4px;top:4px;display:flex;align-items:center;justify-content:center;
+  font-size:14px;transition:left 0.5s cubic-bezier(.68,-0.55,.27,1.55),transform 0.3s ease;
+}
+body.light .switch-circle{left:calc(100% - 30px);}
+.icon{position:absolute;transition:opacity 0.4s ease;font-size:16px;}
+.icon.sun{opacity:1;color:#ffcc00;} body.light .icon.sun{opacity:0;}
+.icon.moon{opacity:0;color:#fff;} body.light .icon.moon{opacity:1;}
+
+/* ===== Gallery ===== */
+.gallery{
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+  gap:15px;padding:12px;transition:all 0.5s ease;
+}
+.item{
+  background:rgba(255,255,255,0.05);
+  border-radius:14px;text-align:center;padding:10px;
+  transition:all 0.3s ease;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,0.3);
+}
+body.light .item{background:rgba(0,0,0,0.05);}
+.item img{
+  width:100%;border-radius:10px;object-fit:contain;background:#111;transition:all 0.4s ease;
+  -webkit-user-drag: none;user-drag: none;position:relative;border:2px solid transparent;
+}
+
+/* ===== Smooth Glitch Hover Animation ===== */
+.item:hover img{
+  animation: hoverGlitch 1s infinite linear;
+}
+@keyframes hoverGlitch {
+  0% { filter: drop-shadow(2px 0 #00ffff) drop-shadow(-2px -2px #ff00ff); transform: translate(0,0); }
+  25%{ filter: drop-shadow(-2px 2 #ff9900) drop-shadow(2px -2 #00f); transform: translate(1px,-1px); }
+  50%{ filter: drop-shadow(2px -1 #ff00ff) drop-shadow(-1px 1 #0ff); transform: translate(-1px,1); }
+  75%{ filter: drop-shadow(-1px 1 #ff9900) drop-shadow(1px -1 #00ffff); transform: translate(1px,0); }
+  100%{ filter: drop-shadow(2px 0 #00ffff) drop-shadow(-2px -2 #ff00ff); transform: translate(0,0); }
+}
+
+.gallery.hovered .item:not(:hover) img{
+  animation:bounceOther 0.4s infinite alternate;
+}
+.item p{margin-top:6px;font-size:14px;word-break:break-word;transition:color 0.3s ease;}
+
+/* ===== Hover Animations ===== */
+@keyframes bounceOther {
+  0%   { transform: scale(1) translateY(0); }
+  50%  { transform: scale(0.97) translateY(-5px); }
+  100% { transform: scale(1) translateY(0); }
+}
+
+/* ===== Modal ===== */
+#modal{
+  position:fixed;top:0;left:0;width:100%;height:100%;
+  background:rgba(0,0,0,0.95);display:none;
+  align-items:center;justify-content:center;flex-direction:column;z-index:9999;
+}
+#modal img{
+  max-width:85%;max-height:80%;border-radius:12px;object-fit:contain;
+  box-shadow:0 0 30px rgba(0,0,0,0.7);
+  transition: transform 0.5s ease, opacity 0.5s ease;
+  -webkit-user-drag: none;user-drag: none;
+}
+#caption{
+  margin-top:12px;font-size:24px;font-weight:600;text-align:center;
+  animation:fadeText 2s infinite alternate;transition:color 0.5s ease;
+}
+body #caption{color:#00ffff;} body.light #caption{color:#ffbb66;}
+@keyframes fadeText{0%{opacity:0.7;}100%{opacity:1;}}
+
+#close{
+  position:absolute;
+  top:20px;right:25px;
+  font-size:40px;
+  cursor:pointer;
+  transition:transform 0.2s ease,color 0.3s ease;
+  color:#fff; /* Dark mode default */
+}
+body.light #close{
+  color:#ffcc66; /* Light yellow in light mode */
+}
+#close:hover{transform:scale(1.2);}
+.nav{
+  position:absolute;top:50%;
+  font-size:50px;color:#fff;cursor:pointer;user-select:none;
+  transition:transform 0.2s ease,color 0.2s ease;
+}
+.nav:hover{transform:scale(1.2);color:#ffcc00;}
+#prev{left:25px;} #next{right:25px;}
+
+/* ===== Footer ===== */
+footer{
+  text-align:center;padding:15px;font-size:14px;background:rgba(0,0,0,0.6);
+  color:#fff;backdrop-filter:blur(6px);margin-top:20px;position:relative;
+}
+body.light footer{background:rgba(255,255,255,0.85);color:#111;}
+</style>
+</head>
+<body>
+<h1 class="glitch-title" data-text="PUBG IMAGES PORTAL">PUBG IMAGES PORTAL</h1>
+
+<div id="topbar">
+  <div class="toggle-switch" id="toggleMode">
+    <div class="switch-circle">
+      <span class="icon sun">&#9728;</span>
+      <span class="icon moon">&#9790;</span>
+    </div>
+  </div>
+  <div id="count">Loading...</div>
+</div>
+
+<div id="gallery" class="gallery"></div>
+
+<div id="modal">
+  <span id="close">&times;</span>
+  <span id="prev" class="nav">&#10094;</span>
+  <img id="modalImg">
+  <div id="caption"></div>
+  <span id="next" class="nav">&#10095;</span>
+</div>
+
+<footer>All Rights Reserved By SiRJ0, PUBG Studios and Krafton</footer>
+
+<script>
+const body=document.body;
+const base="https://prod-live-images.playbattlegrounds.com/26979723c83015ee/";
+let items=[],index=0;
+
+const extraImages=[
+{name:"Contraband Banner", url:`${base}images/wsus/contraband-banner/12012001.png`},
+{name:"Progressive Banner", url:`${base}images/wsus/images/weapons/banner/12012038.png`},
+{name:"Progressive Banner (Level Up)", url:`${base}images/wsus/images/weapons/levelup/12012038.png`},
+{name:"Progressive Banner (Horizontal)", url:`${base}images/wsus/images/weapons/horizontal/12012038.png`},
+{name:"Workshop Banner (Vertical)", url:`${base}images/store-banner/1086.jpg`},
+{name:"Workshop Banner (Horizontal)", url:`${base}images/store-banner/PASS44.jpg`},
+{name:"Pass Bundle Item", url:`${base}gcoinbundle/720/1021.png`},
+{name:"Event Pass Keyart", url:`${base}images/pass/pass-event/keyart/keyart_202510.png`},
+{name:"Event Pass Banner", url:`${base}images/pass/pass-event/banner/banner_background_202510.png`},
+{name:"Event Pass Modal", url:`${base}images/pass/pass-event/modal/modal_keyart_202510.png`},
+{name:"Crafter Pass Banner", url:`${base}images/pass/pass-crafter/banner/banner_background_202511.png`},
+{name:"Crafter Pass Modal", url:`${base}images/pass/pass-crafter/modal/modal_keyart_202511.png`},
+{name:"Survivor Pass Keyart (Track 1)", url:`${base}images/pass/pass-survivor/keyart/track1_202510.png`},
+{name:"Survivor Pass Keyart (Track 2)", url:`${base}images/pass/pass-survivor/keyart/track2_202510.png`},
+{name:"Survivor Pass Keyart (Track 3)", url:`${base}images/pass/pass-survivor/keyart/track3_202510.png`},
+{name:"Survivor Pass Banner", url:`${base}images/pass/pass-survivor/banner/banner_background_202510.png`},
+{name:"Survivor Pass Modal", url:`${base}images/pass/pass-survivor/modal/modal_keyart_202510.png`},
+{name:"Contender Level Up 1", url:`${base}images/contender/levelup/17000001.png`},
+{name:"Contender Level Up 2", url:`${base}images/contender/levelup/17000002.png`},
+{name:"Contender Thumbnail", url:`${base}images/contender/sideMenuBanner/17000001.jpg`},
+{name:"Contender Banner 1", url:`${base}images/contender/banner/17000001.png`},
+{name:"Contender Banner 2", url:`${base}images/contender/banner/17000002.png`},
+{name:"Contender Banner 3", url:`${base}images/contender/banner/17000003.png`},
+{name:"Currency Porsche", url:`${base}images/currency/seasonaltoken.202511porsche/720.png`},
+{name:"Currency Porsche Loot", url:`${base}images/currency/lootcachepiece.202511porsche/720.png`},
+{name:"Currency PGC 2025", url:`${base}images/currency/esportspoint/720.png`},
+{name:"Banner Horizontal PGC 2025", url:`${base}images/store-banner/2025PGC.jpg`},
+{name:"Banner Horizontal CASHOUT CREW", url:`${base}images/store-banner/2025CASHOUTCREW.jpg`},
+{name:"Workshop Banner Porsche", url:`${base}images/store-banner/2025PORSCHEWORKSHOP.jpg`},
+{name:"Wsus Banner MP5k", url:`${base}images/store-banner/2025WSUSMP5K.jpg`}
+];
+
+(async()=>{
+  try{
+    const res=await fetch("./data_en.json");
+    const raw=await res.json();
+    const data=raw["data_en.json"]||raw;
+    const uniqueItems=new Map();
+    for(const [key,value] of Object.entries(data)){
+      const nv=value.new_value;
+      if(nv && nv.name && nv.item_id && !uniqueItems.has(nv.name)){
+        uniqueItems.set(nv.name, `${base}item-large/${nv.item_id}.png`);
+      }
+    }
+    const jsonItems=Array.from(uniqueItems.entries()).map(([name,url])=>({name,url}));
+    items=[...jsonItems,...extraImages];
+    document.getElementById('count').textContent=`${items.length} total images`;
+
+    const gallery=document.getElementById('gallery');
+    const frag=document.createDocumentFragment();
+    items.forEach((it,i)=>{
+      const card=document.createElement('div'); card.className='item';
+      const img=document.createElement('img'); img.loading='lazy'; img.src=it.url; img.alt=it.name;
+      img.onerror=()=>img.style.opacity='0.3';
+      const p=document.createElement('p'); p.textContent=it.name;
+      card.append(img,p); card.onclick=()=>openModal(i);
+      frag.appendChild(card);
+    });
+    gallery.appendChild(frag);
+  }catch(e){
+    document.getElementById('count').textContent="⚠️ data_en.json missing or invalid!";
+  }
+})();
+
+// Dark/Light Toggle
+const toggle=document.getElementById('toggleMode');
+if(localStorage.getItem('theme')==='light') body.classList.add('light');
+toggle.onclick=()=>{
+  body.classList.toggle('light');
+  const circle=document.querySelector('.switch-circle');
+  circle.style.transform='scale(1.3)'; setTimeout(()=>circle.style.transform='scale(1)',300);
+  localStorage.setItem('theme',body.classList.contains('light')?'light':'dark');
+};
+
+// Block Right-Click & Drag
+document.addEventListener('contextmenu', e=>e.preventDefault());
+document.addEventListener('dragstart', e=>{if(e.target.tagName==='IMG') e.preventDefault();});
+
+// DevTools Block
+document.addEventListener('keydown', e=>{
+  if(e.keyCode===123) e.preventDefault();
+  if(e.ctrlKey && e.shiftKey && ['I','C','J'].includes(e.key.toUpperCase())) e.preventDefault();
+  if(e.ctrlKey && e.key.toUpperCase()==='U') e.preventDefault();
+});
+setInterval(()=>{
+  const threshold=160;
+  if(window.outerWidth-window.innerWidth>threshold || window.outerHeight-window.innerHeight>threshold){
+    document.body.innerHTML="<h1 style='text-align:center;color:red;margin-top:20%;'>⚠️ Developer Tools Blocked</h1>";
+  }
+},1000);
+
+// Modal
+const modal=document.getElementById('modal');
+const modalImg=document.getElementById('modalImg');
+const caption=document.getElementById('caption');
+
+function openModal(i){
+  index=i; modal.style.display='flex';
+  modalImg.src=items[i].url;
+  modalImg.style.transform='translateX(0)';
+  modalImg.style.opacity=1;
+  caption.textContent=items[i].name;
+}
+
+function change(dir) {
+  const currentImg = modalImg;
+  const newIndex = (index + dir + items.length) % items.length;
+  const nextImgSrc = items[newIndex].url;
+  const direction = dir > 0 ? 1 : -1;
+
+  currentImg.style.transition = 'transform 0.5s ease, opacity 0.5s ease';
+  currentImg.style.transform = `translateX(${-100 * direction}%)`;
+  currentImg.style.opacity = 0;
+
+  setTimeout(() => {
+    index = newIndex;
+    currentImg.src = nextImgSrc;
+    caption.textContent = items[index].name;
+
+    currentImg.style.transition = 'none';
+    currentImg.style.transform = `translateX(${100 * direction}%)`;
+    currentImg.style.opacity = 0;
+
+    requestAnimationFrame(() => {
+      currentImg.style.transition = 'transform 0.5s ease, opacity 0.5s ease';
+      currentImg.style.transform = 'translateX(0)';
+      currentImg.style.opacity = 1;
+    });
+  }, 400);
+}
+
+document.getElementById('close').onclick=()=>modal.style.display='none';
+document.getElementById('prev').onclick=()=>change(-1);
+document.getElementById('next').onclick=()=>change(1);
+window.onclick=e=>{if(e.target==modal) modal.style.display='none';};
+
+// Bounce animation when hovering over gallery
+const gallery=document.getElementById('gallery');
+gallery.addEventListener('mouseover',()=>gallery.classList.add('hovered'));
+gallery.addEventListener('mouseout',()=>gallery.classList.remove('hovered'));
+</script>
+</body>
+</html>

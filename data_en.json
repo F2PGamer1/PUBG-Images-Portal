@@ -1,0 +1,2182 @@
+{
+    "data_en.json": {
+        "ITEM:11010680": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11010680",
+                "name": "PGC 2025 Night Vanguard Turtleneck"
+            }
+        },
+        "ITEM:11010681": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11010681",
+                "name": "Lawless Lookout Top"
+            }
+        },
+        "ITEM:11010682": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11010682",
+                "name": "PGC 2025 Veiled Guardian Jacket"
+            }
+        },
+        "ITEM:11010683": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11010683",
+                "name": "Brazen Bandit Jacket"
+            }
+        },
+        "ITEM:11020510": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11020510",
+                "name": "PGC 2025 Night Vanguard Pants"
+            }
+        },
+        "ITEM:11020511": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11020511",
+                "name": "Lawless Lookout Pants"
+            }
+        },
+        "ITEM:11020512": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11020512",
+                "name": "Porsche Offtrack Sweatpants"
+            }
+        },
+        "ITEM:11020513": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11020513",
+                "name": "Porsche Socialite Skirt"
+            }
+        },
+        "ITEM:11020514": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11020514",
+                "name": "PGC 2025 Veiled Guardian Pants"
+            }
+        },
+        "ITEM:11020515": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11020515",
+                "name": "Brazen Bandit Pants"
+            }
+        },
+        "ITEM:11030511": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11030511",
+                "name": "PGC 2025 Night Vanguard Boots"
+            }
+        },
+        "ITEM:11030512": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11030512",
+                "name": "Lawless Lookout Boots"
+            }
+        },
+        "ITEM:11030513": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11030513",
+                "name": "Porsche Offtrack Shoes"
+            }
+        },
+        "ITEM:11030514": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11030514",
+                "name": "Porsche Socialite Shoes"
+            }
+        },
+        "ITEM:11030515": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11030515",
+                "name": "PGC 2025 Veiled Guardian Boots"
+            }
+        },
+        "ITEM:11030516": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11030516",
+                "name": "Brazen Bandit Shoes"
+            }
+        },
+        "ITEM:11040197": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11040197",
+                "name": "PGC 2025 Night Vanguard Gloves"
+            }
+        },
+        "ITEM:11040198": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11040198",
+                "name": "Lawless Lookout Gloves"
+            }
+        },
+        "ITEM:11040199": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11040199",
+                "name": "PGC 2025 Veiled Guardian Gloves"
+            }
+        },
+        "ITEM:11040200": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11040200",
+                "name": "Brazen Bandit Gloves"
+            }
+        },
+        "ITEM:11050379": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11050379",
+                "name": "PGC 2025 Night Vanguard Jacket"
+            }
+        },
+        "ITEM:11050380": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11050380",
+                "name": "Lawless Lookout Jacket"
+            }
+        },
+        "ITEM:11050381": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11050381",
+                "name": "Porsche Offtrack Jacket"
+            }
+        },
+        "ITEM:11050382": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11050382",
+                "name": "Porsche Socialite Jacket"
+            }
+        },
+        "ITEM:11060250": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11060250",
+                "name": "PGC 2025 Night Vanguard Cap"
+            }
+        },
+        "ITEM:11060251": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11060251",
+                "name": "Lawless Lookout Beanie"
+            }
+        },
+        "ITEM:11060252": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11060252",
+                "name": "Porsche Socialite Cap"
+            }
+        },
+        "ITEM:11060253": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11060253",
+                "name": "Brazen Bandit Bucket Hat"
+            }
+        },
+        "ITEM:11070166": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11070166",
+                "name": "PGC 2025 Night Vanguard Mask"
+            }
+        },
+        "ITEM:11070167": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11070167",
+                "name": "Lawless Lookout Mask"
+            }
+        },
+        "ITEM:11070168": {
+            "status": "added",
+            "new_value": {
+                "item_id": "11070168",
+                "name": "PGC 2025 Veiled Guardian Mask"
+            }
+        },
+        "ITEM:12011091": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12011091",
+                "name": "Winter Reign - AKM"
+            }
+        },
+        "ITEM:12012038": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12012038",
+                "name": "Winter Eclipse - MP5K"
+            }
+        },
+        "ITEM:12014036": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12014036",
+                "name": "Winter Eclipse - MP5K (Red Purple)",
+                "description": "Can be applied to a compatible progressive weapon skin for added effects and component colors."
+            }
+        },
+        "ITEM:12015030": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015030",
+                "name": "Hectic Heist - Vector"
+            }
+        },
+        "ITEM:12015031": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015031",
+                "name": "PGC 2025 - Pan"
+            }
+        },
+        "ITEM:12015032": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015032",
+                "name": "PGC 2025 - AUG"
+            }
+        },
+        "ITEM:12015033": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015033",
+                "name": "PGC 2025 - SLR"
+            }
+        },
+        "ITEM:12015034": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015034",
+                "name": "PGC 2025 - M416"
+            }
+        },
+        "ITEM:12015035": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015035",
+                "name": "Hectic Heist - VSS"
+            }
+        },
+        "ITEM:12015036": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015036",
+                "name": "Street Hustle Bat",
+                "description": "Applies to Crowbar"
+            }
+        },
+        "ITEM:12015037": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015037",
+                "name": "Winter Reign - Kar98k"
+            }
+        },
+        "ITEM:12015038": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12015038",
+                "name": "Winter Reign - S686"
+            }
+        },
+        "ITEM:12021021": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12021021",
+                "name": "\"Panamera Turbo S\" Sedan",
+                "description": "The following options apply to this skin.<br/>* Active Rear Wing<br/>* Sliding Panoramic Roof<br/>* Special Exhaust Backfire Effect"
+            }
+        },
+        "ITEM:12021022": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12021022",
+                "name": "\"911 Carrera GTS\" Sports Car",
+                "description": "The following options apply to this skin.<br/>* Exhaust Backfire Effect"
+            }
+        },
+        "ITEM:12021023": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12021023",
+                "name": "\"Cayenne Turbo GT\" SUV"
+            }
+        },
+        "ITEM:12022173": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022173",
+                "name": "Panamera Turbo S Paint (Eggshell)"
+            }
+        },
+        "ITEM:12022174": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022174",
+                "name": "Panamera Turbo S Paint (Jet Black Metallic)"
+            }
+        },
+        "ITEM:12022175": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022175",
+                "name": "911 Carrera GTS Paint (GT Silver Metallic)"
+            }
+        },
+        "ITEM:12022176": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022176",
+                "name": "911 Carrera GTS Paint (Cotton Candy & Periwinkle)"
+            }
+        },
+        "ITEM:12022177": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022177",
+                "name": "Cayenne Turbo GT Paint (Arctic Grey)"
+            }
+        },
+        "ITEM:12022178": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022178",
+                "name": "Cayenne Turbo GT Paint (Moongem)"
+            }
+        },
+        "ITEM:12022179": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022179",
+                "name": "Panamera Turbo S Calipers (Black)"
+            }
+        },
+        "ITEM:12022180": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022180",
+                "name": "Panamera Turbo S Calipers (Blush Coral)"
+            }
+        },
+        "ITEM:12022181": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022181",
+                "name": "911 Carrera GTS Calipers (Black)"
+            }
+        },
+        "ITEM:12022182": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022182",
+                "name": "911 Carrera GTS Calipers (Speed Yellow)"
+            }
+        },
+        "ITEM:12022183": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022183",
+                "name": "Cayenne Turbo GT Calipers (Black)"
+            }
+        },
+        "ITEM:12022184": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022184",
+                "name": "Cayenne Turbo GT Calipers (Speed Yellow)"
+            }
+        },
+        "ITEM:12022185": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022185",
+                "name": "Panamera Turbo S Interior (Black)"
+            }
+        },
+        "ITEM:12022186": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022186",
+                "name": "Panamera Turbo S Interior (Black & Bordeaux Red)"
+            }
+        },
+        "ITEM:12022187": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022187",
+                "name": "Panamera Turbo S Wheels (Silver)"
+            }
+        },
+        "ITEM:12022188": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022188",
+                "name": "Panamera Turbo S Center Lock Wheels (High Gloss Black Diamond Cut)"
+            }
+        },
+        "ITEM:12022189": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022189",
+                "name": "911 Carrera GTS Wheels (High Gloss Black)"
+            }
+        },
+        "ITEM:12022190": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022190",
+                "name": "911 Carrera GTS Wheels (Gloss Black)"
+            }
+        },
+        "ITEM:12022191": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022191",
+                "name": "911 Carrera GTS Wheels (Satin Black)"
+            }
+        },
+        "ITEM:12022192": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022192",
+                "name": "Cayenne Turbo GT Wheels (Satin Neodyme)"
+            }
+        },
+        "ITEM:12022193": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022193",
+                "name": "Cayenne Turbo GT Wheels (High Gloss Black)"
+            }
+        },
+        "ITEM:12022194": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022194",
+                "name": "Porsche License Plate - S PR 0215"
+            }
+        },
+        "ITEM:12022195": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022195",
+                "name": "Porsche License Plate - 0"
+            }
+        },
+        "ITEM:12022196": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022196",
+                "name": "Panamera Turbo S Paint (Pearlescent Lilac)"
+            }
+        },
+        "ITEM:12022197": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022197",
+                "name": "Panamera Turbo S Paint (Rose Gold Chrome)"
+            }
+        },
+        "ITEM:12022198": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022198",
+                "name": "Panamera Turbo S Paint (Lustre Teal)"
+            }
+        },
+        "ITEM:12022199": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022199",
+                "name": "Panamera Turbo S Paint (Obsidian Green)"
+            }
+        },
+        "ITEM:12022200": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022200",
+                "name": "Panamera Turbo S Paint (Matte Light Gold Chrome)"
+            }
+        },
+        "ITEM:12022201": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022201",
+                "name": "Panamera Turbo S Paint (Blush Coral)"
+            }
+        },
+        "ITEM:12022202": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022202",
+                "name": "Panamera Turbo S Paint (Steel Blue Metallic)"
+            }
+        },
+        "ITEM:12022203": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022203",
+                "name": "Panamera Turbo S Paint (Sage Metallic)"
+            }
+        },
+        "ITEM:12022204": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022204",
+                "name": "Panamera Turbo S Paint (Carmine Red)"
+            }
+        },
+        "ITEM:12022205": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022205",
+                "name": "Panamera Turbo S Paint (Speed Yellow)"
+            }
+        },
+        "ITEM:12022206": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022206",
+                "name": "Panamera Turbo S Paint (Ultraviolet)"
+            }
+        },
+        "ITEM:12022207": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022207",
+                "name": "Panamera Turbo S Calipers (Pearlescent Lilac)"
+            }
+        },
+        "ITEM:12022208": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022208",
+                "name": "Panamera Turbo S Calipers (Rose Gold Chrome)"
+            }
+        },
+        "ITEM:12022209": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022209",
+                "name": "Panamera Turbo S Calipers (White)"
+            }
+        },
+        "ITEM:12022210": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022210",
+                "name": "Panamera Turbo S Calipers (Obsidian Green)"
+            }
+        },
+        "ITEM:12022211": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022211",
+                "name": "Panamera Turbo S Interior (Lilac & Blackberry)"
+            }
+        },
+        "ITEM:12022212": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022212",
+                "name": "Panamera Turbo S Interior (Black & Kalahari Grey)"
+            }
+        },
+        "ITEM:12022213": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022213",
+                "name": "Panamera Turbo S Wheels (Gloss Black)"
+            }
+        },
+        "ITEM:12022214": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022214",
+                "name": "Panamera Turbo S Wheels (Lustre Teal Diamond Cut)"
+            }
+        },
+        "ITEM:12022215": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022215",
+                "name": "Panamera Turbo S Wheels (Blush Coral Diamond Cut)"
+            }
+        },
+        "ITEM:12022216": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022216",
+                "name": "Panamera Turbo S Wheels (High Gloss Black Diamond Cut)"
+            }
+        },
+        "ITEM:12022217": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022217",
+                "name": "911 Carrera GTS Paint (Iris Purple & Electric Lime)"
+            }
+        },
+        "ITEM:12022218": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022218",
+                "name": "911 Carrera GTS Paint (Electric Lime & Orange)"
+            }
+        },
+        "ITEM:12022219": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022219",
+                "name": "911 Carrera GTS Paint (Amber Yellow & Black)"
+            }
+        },
+        "ITEM:12022220": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022220",
+                "name": "911 Carrera GTS Paint (Obsidian Ink & Red)"
+            }
+        },
+        "ITEM:12022221": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022221",
+                "name": "911 Carrera GTS Paint (Sean Peach)"
+            }
+        },
+        "ITEM:12022222": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022222",
+                "name": "911 Carrera GTS Paint (Matte Mint Green)"
+            }
+        },
+        "ITEM:12022223": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022223",
+                "name": "911 Carrera GTS Paint (Guards Red)"
+            }
+        },
+        "ITEM:12022224": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022224",
+                "name": "911 Carrera GTS Paint (Speed Yellow)"
+            }
+        },
+        "ITEM:12022225": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022225",
+                "name": "911 Carrera GTS Paint (Riviera Blue)"
+            }
+        },
+        "ITEM:12022226": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022226",
+                "name": "911 Carrera GTS Paint (Creme White)"
+            }
+        },
+        "ITEM:12022227": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022227",
+                "name": "911 Carrera GTS Paint (Verdezeltweg Metallic)"
+            }
+        },
+        "ITEM:12022228": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022228",
+                "name": "911 Carrera GTS Wheels (Periwinkle)"
+            }
+        },
+        "ITEM:12022229": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022229",
+                "name": "911 Carrera GTS Wheels (Electric Lime)"
+            }
+        },
+        "ITEM:12022230": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022230",
+                "name": "911 Carrera GTS Wheels (Orange)"
+            }
+        },
+        "ITEM:12022231": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022231",
+                "name": "911 Carrera GTS Calipers (Cotton Candy)"
+            }
+        },
+        "ITEM:12022232": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022232",
+                "name": "911 Carrera GTS Calipers (Electric Lime)"
+            }
+        },
+        "ITEM:12022233": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022233",
+                "name": "911 Carrera GTS Calipers (Orange)"
+            }
+        },
+        "ITEM:12022234": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022234",
+                "name": "911 Carrera GTS Calipers (Guards Red)"
+            }
+        },
+        "ITEM:12022235": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022235",
+                "name": "Porsche License Plate - 1"
+            }
+        },
+        "ITEM:12022236": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022236",
+                "name": "Porsche License Plate - 7"
+            }
+        },
+        "ITEM:12022237": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022237",
+                "name": "Porsche License Plate - 8"
+            }
+        },
+        "ITEM:12022238": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022238",
+                "name": "Porsche License Plate - 1234 5678"
+            }
+        },
+        "ITEM:12022239": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022239",
+                "name": "Porsche License Plate - CHKN-DNR"
+            }
+        },
+        "ITEM:12022240": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022240",
+                "name": "Porsche License Plate - WWCD"
+            }
+        },
+        "ITEM:12022241": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022241",
+                "name": "Porsche License Plate - REDZON3"
+            }
+        },
+        "ITEM:12022242": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022242",
+                "name": "Porsche License Plate - IM-A1"
+            }
+        },
+        "ITEM:12022243": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022243",
+                "name": "Porsche License Plate - 43H-0147"
+            }
+        },
+        "ITEM:12022244": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022244",
+                "name": "Porsche License Plate - TYT-00001"
+            }
+        },
+        "ITEM:12022245": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022245",
+                "name": "Porsche License Plate - GT4-RS"
+            }
+        },
+        "ITEM:12022246": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022246",
+                "name": "Porsche License Plate - MM 7"
+            }
+        },
+        "ITEM:12022247": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022247",
+                "name": "Porsche License Plate - 31-50"
+            }
+        },
+        "ITEM:12022248": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022248",
+                "name": "Porsche License Plate - NXT-000"
+            }
+        },
+        "ITEM:12022249": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022249",
+                "name": "Porsche License Plate - ZEN 25"
+            }
+        },
+        "ITEM:12022250": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022250",
+                "name": "Porsche License Plate - A0 789"
+            }
+        },
+        "ITEM:12022251": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022251",
+                "name": "Porsche License Plate - LU-8"
+            }
+        },
+        "ITEM:12022252": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022252",
+                "name": "Porsche License Plate - POR5CH3"
+            }
+        },
+        "ITEM:12022253": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022253",
+                "name": "Porsche License Plate - LM-WIN19"
+            }
+        },
+        "ITEM:12022254": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022254",
+                "name": "Porsche License Plate - 356-1948"
+            }
+        },
+        "ITEM:12022255": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022255",
+                "name": "Porsche License Plate - STGT48"
+            }
+        },
+        "ITEM:12022256": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022256",
+                "name": "Porsche License Plate - P0608"
+            }
+        },
+        "ITEM:12022257": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022257",
+                "name": "Porsche License Plate - NO1"
+            }
+        },
+        "ITEM:12022258": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022258",
+                "name": "Porsche License Plate - G000"
+            }
+        },
+        "ITEM:12022259": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022259",
+                "name": "Porsche License Plate - VVV-1"
+            }
+        },
+        "ITEM:12022260": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12022260",
+                "name": "Porsche License Plate - LUV"
+            }
+        },
+        "ITEM:12030107": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12030107",
+                "name": "PGC 2025 Parachute"
+            }
+        },
+        "ITEM:12030108": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12030108",
+                "name": "Porsche Parachute"
+            }
+        },
+        "ITEM:12031269": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12031269",
+                "name": "Porsche Offtrack - Helmet (Level 1)"
+            }
+        },
+        "ITEM:12031270": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12031270",
+                "name": "Bank Burglar - Helmet (Level 2)"
+            }
+        },
+        "ITEM:12031271": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12031271",
+                "name": "PGC 2025 Veiled Guardian - Helmet (Level 2)"
+            }
+        },
+        "ITEM:12031272": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12031272",
+                "name": "PGC 2025 - Helmet (Level 3)"
+            }
+        },
+        "ITEM:12032280": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12032280",
+                "name": "Getaway Drift Backpack (Level 3)"
+            }
+        },
+        "ITEM:12032281": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12032281",
+                "name": "Hands Up Backpack (Level 2)"
+            }
+        },
+        "ITEM:12032282": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12032282",
+                "name": "PGC 2025 Veiled Guardian Backpack (Level 2)"
+            }
+        },
+        "ITEM:12032283": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12032283",
+                "name": "PGC 2025 Night Vanguard Backpack (Level 3)"
+            }
+        },
+        "ITEM:12032284": {
+            "status": "added",
+            "new_value": {
+                "item_id": "12032284",
+                "name": "Porsche Socialite Backpack (Level 3)"
+            }
+        },
+        "ITEM:13001356": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001356",
+                "name": "PGC 2025 MEGA BUNDLE + VOTING COUPON"
+            }
+        },
+        "ITEM:13001357": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001357",
+                "name": "PGC 2025 NIGHT VANGUARD SET + VOTING COUPON"
+            }
+        },
+        "ITEM:13001358": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001358",
+                "name": "PGC 2025 VEILED GUARDIAN SET + VOTING COUPON"
+            }
+        },
+        "ITEM:13001359": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001359",
+                "name": "PGC 2025 WEAPON SET + VOTING COUPON"
+            }
+        },
+        "ITEM:13001360": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001360",
+                "name": "PGC 2025 M416 + VOTING COUPON"
+            }
+        },
+        "ITEM:13001361": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001361",
+                "name": "PGC 2025 SLR + VOTING COUPON"
+            }
+        },
+        "ITEM:13001362": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001362",
+                "name": "PGC 2025 EMOTE + VOTING COUPON"
+            }
+        },
+        "ITEM:13001363": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001363",
+                "name": "PGC 2025 MEGA BUNDLE"
+            }
+        },
+        "ITEM:13001364": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001364",
+                "name": "PGC 2025 NIGHT VANGUARD SET"
+            }
+        },
+        "ITEM:13001365": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001365",
+                "name": "PGC 2025 VEILED GUARDIAN SET"
+            }
+        },
+        "ITEM:13001366": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001366",
+                "name": "PGC 2025 WEAPON SET"
+            }
+        },
+        "ITEM:13001369": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001369",
+                "name": "CRAFTER PASS: PORSCHE BASIC PACK",
+                "description": "Experience elegance in motion with the Crafter Pass: Porsche!"
+            }
+        },
+        "ITEM:13001370": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001370",
+                "name": "PORSCHE RUSH PACK",
+                "description": "Experience timeless design with the Crafter Pass: Porsche - featuring Porsche Loot Caches, a Porsche nameplate, and more.<br><span style=\"color:#ffc600\">* If your purchase causes you to exceed level 30, the excess levels will be returned as 1 Level items, which can be used for the next Pass</span>"
+            }
+        },
+        "ITEM:13001371": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001371",
+                "name": "CASHOUT CREW MEGA BUNDLE"
+            }
+        },
+        "ITEM:13001372": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001372",
+                "name": "LAWLESS LOOKOUT SET"
+            }
+        },
+        "ITEM:13001373": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001373",
+                "name": "BRAZEN BANDIT SET"
+            }
+        },
+        "ITEM:13001374": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001374",
+                "name": "GETAWAY BURGLAR GEAR SET"
+            }
+        },
+        "ITEM:13001375": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001375",
+                "name": "HECTIC HEIST WEAPON SET"
+            }
+        },
+        "ITEM:13001376": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001376",
+                "name": "PANAMERA TURBO S FULL SET (PEARLESCENT LILAC)"
+            }
+        },
+        "ITEM:13001377": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001377",
+                "name": "PANAMERA TURBO S SET (ROSE GOLD CHROME)"
+            }
+        },
+        "ITEM:13001378": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001378",
+                "name": "PANAMERA TURBO S SET (LUSTRE TEAL & WHITE)"
+            }
+        },
+        "ITEM:13001379": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001379",
+                "name": "PANAMERA TURBO S SET (OBSIDIAN GREEN)"
+            }
+        },
+        "ITEM:13001380": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001380",
+                "name": "PANAMERA TURBO S SET (BLUSH CORAL)"
+            }
+        },
+        "ITEM:13001381": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001381",
+                "name": "911 CARRERA GTS SET (COTTON CANDY & PERIWINKLE)"
+            }
+        },
+        "ITEM:13001382": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001382",
+                "name": "911 CARRERA GTS SET (IRIS PURPLE & ELECTRIC LIME)"
+            }
+        },
+        "ITEM:13001383": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001383",
+                "name": "911 CARRERA GTS SET (ELECTRIC LIME & ORANGE)"
+            }
+        },
+        "ITEM:13001384": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001384",
+                "name": "911 CARRERA GTS SET (GUARDS RED & SATIN BLACK)"
+            }
+        },
+        "ITEM:13001385": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001385",
+                "name": "911 CARRERA GTS SET (SPEED YELLOW & GLOSS BLACK)"
+            }
+        },
+        "ITEM:13001386": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001386",
+                "name": "CAYENNE TURBO GT SET (MOONGEM & SPEED YELLOW)"
+            }
+        },
+        "ITEM:13001387": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001387",
+                "name": "PORSCHE SOCIALITE SET"
+            }
+        },
+        "ITEM:13001388": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001388",
+                "name": "PORSCHE OFFTRACK SET"
+            }
+        },
+        "ITEM:13001389": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001389",
+                "name": "PORSCHE LOOT CACHE PACK (x1)"
+            }
+        },
+        "ITEM:13001390": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001390",
+                "name": "PORSCHE LOOT CACHE PACK (x11)"
+            }
+        },
+        "ITEM:13001391": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001391",
+                "name": "PORSCHE LOOT CACHE PACK (x27)"
+            }
+        },
+        "ITEM:13001392": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001392",
+                "name": "PORSCHE LOOT CACHE PACK (x55)"
+            }
+        },
+        "ITEM:13001393": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001393",
+                "name": "PUBG - CRAFTER PASS: PORSCHE BASIC PACK",
+                "description": "Experience elegance in motion with the Crafter Pass: Porsche!"
+            }
+        },
+        "ITEM:13001394": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001394",
+                "name": "PUBG - 2025 PLAYSTATION®PLUS EXCLUSIVE BUNDLE #4",
+                "description": "Prepare for battle with the PUBG - PlayStation®Plus Exclusive Bundle! Expand your item collection with Hunter's Chests, Keys, Contraband Coupons, and the Pixel Art Parachute — all available for free to PlayStation®Plus members."
+            }
+        },
+        "ITEM:13001395": {
+            "status": "added",
+            "new_value": {
+                "item_id": "13001395",
+                "name": "PUBG - 2025 XBOX GAME PASS EXCLUSIVE SURVIVOR PACK #4",
+                "description": "Prepare for battle with the PUBG - XBOX Game Pass Exclusive Survivor Pack! Expand your item collection with Hunter's Chests, Keys, and Contraband Coupons — all available for free to Game Pass Ultimate members."
+            }
+        },
+        "ITEM:14100067": {
+            "status": "added",
+            "new_value": {
+                "item_id": "14100067",
+                "name": "WINTER ECLIPSE - CONTRABAND CRATE"
+            }
+        },
+        "ITEM:14300047": {
+            "status": "added",
+            "new_value": {
+                "item_id": "14300047",
+                "name": "PORSCHE LOOT CACHE"
+            }
+        },
+        "ITEM:14300048": {
+            "status": "added",
+            "new_value": {
+                "item_id": "14300048",
+                "name": "PORSCHE PRIME PARCEL",
+                "description": "Open Porsche Prime Parcels to receive Porsche Tokens and items!"
+            }
+        },
+        "ITEM:31020110": {
+            "status": "added",
+            "new_value": {
+                "item_id": "31020110",
+                "name": "Purrfect Gamer Sweatpants"
+            }
+        },
+        "ITEM:31040036": {
+            "status": "added",
+            "new_value": {
+                "item_id": "31040036",
+                "name": "HUYA Tactical Gloves"
+            }
+        },
+        "ITEM:31050157": {
+            "status": "added",
+            "new_value": {
+                "item_id": "31050157",
+                "name": "Lightning Speed Jacket"
+            }
+        },
+        "ITEM:31050158": {
+            "status": "added",
+            "new_value": {
+                "item_id": "31050158",
+                "name": "PGC 2025 Windbreaker"
+            }
+        },
+        "ITEM:33000068": {
+            "status": "added",
+            "new_value": {
+                "item_id": "33000068",
+                "name": "2025 PLAYSTATION®PLUS EXCLUSIVE BUNDLE"
+            }
+        },
+        "ITEM:18010090": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18010090",
+                "name": "PGC 2025"
+            }
+        },
+        "ITEM:18010091": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18010091",
+                "name": "Money Bag"
+            }
+        },
+        "ITEM:18040445": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040445",
+                "name": "Elegance in Motion"
+            }
+        },
+        "ITEM:18040446": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040446",
+                "name": "Full Speed"
+            }
+        },
+        "ITEM:18040447": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040447",
+                "name": "PGC 2025 - The Global Stage Awaits"
+            }
+        },
+        "ITEM:18040448": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040448",
+                "name": "PGC 2025 - Leave a Legacy"
+            }
+        },
+        "ITEM:18040449": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040449",
+                "name": "Alien Abduction"
+            }
+        },
+        "ITEM:18040450": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040450",
+                "name": "PGC 2025 Logo 3"
+            }
+        },
+        "ITEM:18040451": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040451",
+                "name": "Porsche"
+            }
+        },
+        "ITEM:18040452": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040452",
+                "name": "Porsche (Color)"
+            }
+        },
+        "ITEM:18040453": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18040453",
+                "name": "PGC 2025 Logo 4"
+            }
+        },
+        "ITEM:16100563": {
+            "status": "added",
+            "new_value": {
+                "item_id": "16100563",
+                "name": "Porsche - There is no substitute"
+            }
+        },
+        "ITEM:16100564": {
+            "status": "added",
+            "new_value": {
+                "item_id": "16100564",
+                "name": "PGC 2025 Dance - On the Move"
+            }
+        },
+        "ITEM:17210126": {
+            "status": "added",
+            "new_value": {
+                "item_id": "17210126",
+                "name": "Hairstyle 96"
+            }
+        },
+        "ITEM:17230060": {
+            "status": "added",
+            "new_value": {
+                "item_id": "17230060",
+                "name": "PGC 2025 Veiled Guardian Makeup"
+            }
+        },
+        "ITEM:17230061": {
+            "status": "added",
+            "new_value": {
+                "item_id": "17230061",
+                "name": "Lawless Lookout Makeup"
+            }
+        },
+        "ITEM:18100406": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100406",
+                "name": "PGC 2025 Orchid"
+            }
+        },
+        "ITEM:18100407": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100407",
+                "name": "PGC 2025 Tukshai"
+            }
+        },
+        "ITEM:18100408": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100408",
+                "name": "PGC 2025 Roar of Glory"
+            }
+        },
+        "ITEM:18100409": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100409",
+                "name": "Cash Only"
+            }
+        },
+        "ITEM:18100410": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100410",
+                "name": "PGC 2025 Logo 1"
+            }
+        },
+        "ITEM:18100411": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100411",
+                "name": "PGC 2025 Logo 2"
+            }
+        },
+        "ITEM:18100412": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100412",
+                "name": "No Chicken Dinner"
+            }
+        },
+        "ITEM:18100413": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100413",
+                "name": "Joyful Package"
+            }
+        },
+        "ITEM:18100414": {
+            "status": "added",
+            "new_value": {
+                "item_id": "18100414",
+                "name": "Porsche Logo"
+            }
+        },
+        "ITEM:41040074": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41040074",
+                "name": "HUYA Tactical Gloves"
+            }
+        },
+        "ITEM:41040075": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41040075",
+                "name": "HUYA Tactical Gloves"
+            }
+        },
+        "ITEM:41040076": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41040076",
+                "name": "HUYA Tactical Gloves"
+            }
+        },
+        "ITEM:41040077": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41040077",
+                "name": "HUYA Tactical Gloves"
+            }
+        },
+        "ITEM:41040078": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41040078",
+                "name": "HUYA Tactical Gloves"
+            }
+        },
+        "ITEM:41051131": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41051131",
+                "name": "Lightning Speed Jacket"
+            }
+        },
+        "ITEM:41051132": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41051132",
+                "name": "Lightning Speed Jacket"
+            }
+        },
+        "ITEM:41051133": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41051133",
+                "name": "Lightning Speed Jacket"
+            }
+        },
+        "ITEM:41051134": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41051134",
+                "name": "Lightning Speed Jacket"
+            }
+        },
+        "ITEM:41051135": {
+            "status": "added",
+            "new_value": {
+                "item_id": "41051135",
+                "name": "Lightning Speed Jacket"
+            }
+        },
+        "ITEM:45000595": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000595",
+                "name": "BP Boost {0}",
+                "description": "BP Boost items can be used together for additional BP boost."
+            }
+        },
+        "ITEM:45000596": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000596",
+                "name": "BP Boost {0}",
+                "description": "BP Boost items can be used together for additional BP boost."
+            }
+        },
+        "ITEM:45000597": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000597",
+                "name": "BP Boost {0}",
+                "description": "BP Boost items can be used together for additional BP boost."
+            }
+        },
+        "ITEM:45000605": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000605",
+                "name": "Crafter Pass: Porsche"
+            }
+        },
+        "ITEM:45000606": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000606",
+                "name": "BP Boost {0}",
+                "description": "BP Boost items can be used together for additional BP boost."
+            }
+        },
+        "ITEM:45000607": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000607",
+                "name": "BP Boost {0}",
+                "description": "BP Boost items can be used together for additional BP boost."
+            }
+        },
+        "ITEM:45000608": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000608",
+                "name": "BP Boost {0}",
+                "description": "BP Boost items can be used together for additional BP boost."
+            }
+        },
+        "ITEM:45000613": {
+            "status": "added",
+            "new_value": {
+                "item_id": "45000613",
+                "name": "10 Levels",
+                "description": "Instantly raise your Pass level by 10<br><span style=\"color:#ffc600\">* This item is activated upon purchase and is non-refundable</span>"
+            }
+        },
+        "ITEM:46000012": {
+            "status": "added",
+            "new_value": {
+                "item_id": "46000012",
+                "name": "Backstreet Garage"
+            }
+        },
+        "GCOINBUNDLE:1079": {
+            "status": "added",
+            "new_value": {
+                "title": "100 G-COIN"
+            }
+        },
+        "GCOINBUNDLE:1080": {
+            "status": "added",
+            "new_value": {
+                "title": "500 G-COIN",
+                "subtitle": "500 G-COIN"
+            }
+        },
+        "GCOINBUNDLE:1081": {
+            "status": "added",
+            "new_value": {
+                "title": "1,000 (+100 BONUS) G-COIN",
+                "subtitle": "1,000+100 BONUS"
+            }
+        },
+        "GCOINBUNDLE:1082": {
+            "status": "added",
+            "new_value": {
+                "title": "2,000 (+300 BONUS) G-COIN",
+                "subtitle": "2,000+300 BONUS"
+            }
+        },
+        "GCOINBUNDLE:1083": {
+            "status": "added",
+            "new_value": {
+                "title": "5,000 (+1,000 BONUS) G-COIN",
+                "subtitle": "5,000+1,000 BONUS"
+            }
+        },
+        "GCOINBUNDLE:1086": {
+            "status": "added",
+            "new_value": {
+                "title": "CRAFTER PASS: PORSCHE BASIC PACK",
+                "description": "Experience elegance in motion with the Crafter Pass: Porsche!"
+            }
+        },
+        "GCOINBUNDLE:1088": {
+            "status": "added",
+            "new_value": {
+                "title": "PUBG - 2025 Xbox Game Pass Exclusive Survivor Pack #4",
+                "description": "Prepare for battle with the PUBG - XBOX Game Pass Exclusive Survivor Pack! Expand your item collection with Hunter's Chests, Keys, and Contraband Coupons — all available for free to Game Pass Ultimate members."
+            }
+        },
+        "GCOINBUNDLE:1089": {
+            "status": "added",
+            "new_value": {
+                "title": "PUBG - 2025 PlayStation®Plus Exclusive Bundle #4",
+                "description": "Prepare for battle with the PUBG - PlayStation®Plus Exclusive Bundle! Expand your item collection with Hunter's Chests, Keys, Contraband Coupons, and the Pixel Art Parachute — all available for free to PlayStation®Plus members."
+            }
+        },
+        "MISSION:9300352": {
+            "status": "added",
+            "new_value": {
+                "title": "Equip \"Cayenne Turbo GT\" SUV",
+                "description": "Equip the \"Cayenne Turbo GT\" SUV skin."
+            }
+        },
+        "MISSION:9300353": {
+            "status": "added",
+            "new_value": {
+                "title": "Equip \"911 Carrera GTS\" Sports Car",
+                "description": "Equip the \"911 Carrera GTS\" Sports Car skin."
+            }
+        },
+        "MISSION:9300354": {
+            "status": "added",
+            "new_value": {
+                "title": "Equip \"Panamera Turbo S\" Sedan",
+                "description": "Equip the \"Panamera Turbo S\" Sedan skin."
+            }
+        },
+        "MISSION:2450001": {
+            "status": "added",
+            "new_value": {
+                "title": "Daily Mission Contender",
+                "description": "Complete total 20 daily missions."
+            }
+        },
+        "MISSION:2450002": {
+            "status": "added",
+            "new_value": {
+                "title": "Daily Mission Contender",
+                "description": "Complete total 40 daily missions."
+            }
+        },
+        "MISSION:2450003": {
+            "status": "added",
+            "new_value": {
+                "title": "Weekly Mission Contender",
+                "description": "Complete total 4 weekly missions."
+            }
+        },
+        "MISSION:2450004": {
+            "status": "added",
+            "new_value": {
+                "title": "Weekly Mission Contender",
+                "description": "Complete total 8 weekly missions."
+            }
+        },
+        "MISSION:2450005": {
+            "status": "added",
+            "new_value": {
+                "title": "Season Mission Contender",
+                "description": "Complete and claim rewards for a total of 2 season missions."
+            }
+        },
+        "MISSION:2450006": {
+            "status": "added",
+            "new_value": {
+                "title": "Season Mission Contender",
+                "description": "Complete and claim rewards for a total of 4 season missions."
+            }
+        },
+        "MISSION:3820001": {
+            "status": "added",
+            "new_value": {
+                "title": "Quick Refuel",
+                "description": "Use 25 healing or boost items in total."
+            }
+        },
+        "MISSION:3820002": {
+            "status": "added",
+            "new_value": {
+                "title": "Cruise to the Top",
+                "description": "Reach the top 2."
+            }
+        },
+        "MISSION:3820003": {
+            "status": "added",
+            "new_value": {
+                "title": "Prestige in Motion",
+                "description": "Travel 5000 m in total in a coupe or sedan. Includes Pony Coupes, Coupe RBs, Mirados and Dacia."
+            }
+        },
+        "MISSION:3820004": {
+            "status": "added",
+            "new_value": {
+                "title": "Glovebox Arsenal",
+                "description": "Loot 8 throwables in a single match."
+            }
+        },
+        "MISSION:3821001": {
+            "status": "added",
+            "new_value": {
+                "title": "Silenced with Precision I",
+                "description": "Get 6 total kills using weapons equipped with a Compensator."
+            }
+        },
+        "MISSION:3821002": {
+            "status": "added",
+            "new_value": {
+                "title": "Mileage for Survival",
+                "description": "Survive 20 minutes in a single match. Survival time is based on the longest surviving teammate."
+            }
+        },
+        "MISSION:3821003": {
+            "status": "added",
+            "new_value": {
+                "title": "Essential Maintenance I",
+                "description": "Heal 600 total health."
+            }
+        },
+        "MISSION:3821004": {
+            "status": "added",
+            "new_value": {
+                "title": "Refined Impact I",
+                "description": "Destroy 3 windows, doors, or vehicle tires in a single match."
+            }
+        },
+        "MISSION:3822001": {
+            "status": "added",
+            "new_value": {
+                "title": "Refined Impact II",
+                "description": "Destroy 25 windows, doors, or vehicle tires in total."
+            }
+        },
+        "MISSION:3822002": {
+            "status": "added",
+            "new_value": {
+                "title": "Spoils of Triumph",
+                "description": "Loot 15 total healing or boost items from enemy deathboxes. (Bundled items count as 1.)"
+            }
+        },
+        "MISSION:3822003": {
+            "status": "added",
+            "new_value": {
+                "title": "Silenced with Precision II",
+                "description": "Get 7 total kills with DMRs."
+            }
+        },
+        "MISSION:3822004": {
+            "status": "added",
+            "new_value": {
+                "title": "Smooth Ride",
+                "description": "Travel 1500 m total with the vehicle engine turned off."
+            }
+        },
+        "MISSION:3823001": {
+            "status": "added",
+            "new_value": {
+                "title": "Essential Maintenance II",
+                "description": "Heal 80 health in a single match."
+            }
+        },
+        "MISSION:3823002": {
+            "status": "added",
+            "new_value": {
+                "title": "Exquisite Damage",
+                "description": "Deal 150 damage to enemies with DMRs or SRs in a single match."
+            }
+        },
+        "MISSION:3823003": {
+            "status": "added",
+            "new_value": {
+                "title": "Obscured Vision Ahead",
+                "description": "Use 4 Smoke Grenades in a single match."
+            }
+        },
+        "MISSION:3823004": {
+            "status": "added",
+            "new_value": {
+                "title": "An Exclusive Deal",
+                "description": "Deal 200 damage to enemies in a single match."
+            }
+        },
+        "MISSION:3824001": {
+            "status": "added",
+            "new_value": {
+                "title": "Conquer the Open Road",
+                "description": "Travel 5000 m in total in an SUV. Includes UAZs, Pickups, and Zimas."
+            }
+        },
+        "MISSION:3824002": {
+            "status": "added",
+            "new_value": {
+                "title": "Execute with Elegance",
+                "description": "Kill 2 enemies total with a headshot."
+            }
+        },
+        "MISSION:3824003": {
+            "status": "added",
+            "new_value": {
+                "title": "End of the Ride",
+                "description": "Destroy 1 vehicle."
+            }
+        },
+        "MISSION:3824004": {
+            "status": "added",
+            "new_value": {
+                "title": "Cross the Finish Line",
+                "description": "Win a chicken dinner."
+            }
+        },
+        "RANK_STAT:PlayTime": {
+            "status": "modified",
+            "changes": {
+                "name": {
+                    "status": "modified",
+                    "old_value": "Playtime",
+                    "new_value": "Play Time"
+                }
+            }
+        },
+        "CURRENCY:seasonaltoken.202511porsche": {
+            "status": "added",
+            "new_value": {
+                "name": "PORSCHE TOKEN",
+                "description": "This Token will expire on {0}. Expired Tokens disappear and cannot be refunded or exchanged."
+            }
+        },
+        "CURRENCY:lootcachepiece.202511porsche": {
+            "status": "added",
+            "new_value": {
+                "name": "PORSCHE LOOT CACHE FRAGMENT"
+            }
+        },
+        "CURRENCY:esportspoint.pickem202502": {
+            "status": "added",
+            "new_value": {
+                "name": "EP"
+            }
+        },
+        "CURRENCY:pickem.votingcoupon.p.pickem202502": {
+            "status": "added",
+            "new_value": {
+                "name": "Voting Coupon"
+            }
+        },
+        "CURRENCY:pickem.votingcoupon.foc.pickem202502": {
+            "status": "added",
+            "new_value": {
+                "name": "Voting Coupon"
+            }
+        },
+        "CURRENCY:gcoin": {
+            "status": "removed",
+            "old_value": {
+                "name": "G-Coin"
+            }
+        }
+    },
+    "ui_en.json": {
+        "CLAN:NEWS_MSG_25": {
+            "status": "modified",
+            "old_value": "Clan Sandbox Mode Ticket expires on {0}. {1}",
+            "new_value": "Sandbox Mode Ticket expires on {0}. {1}"
+        },
+        "CONSOLESTORE:DLC_DESCRIPTION_97": {
+            "status": "added",
+            "new_value": "Includes:<br/>- Hunter's Chest x5<br/>- Key x5<br/>- 80 Contraband Coupons"
+        },
+        "CRAFTERPASS:COMMON_TITLE_202511": {
+            "status": "added",
+            "new_value": "PORSCHE"
+        },
+        "CUSTOMIZE:VEHICLE_BUTTON_28": {
+            "status": "modified",
+            "old_value": "EQUIP {0}",
+            "new_value": "EQUIP SLOT {0}"
+        },
+        "CUSTOMIZE:VEHICLE_BUTTON_29": {
+            "status": "modified",
+            "old_value": "UNEQUIP {0}",
+            "new_value": "UNEQUIP SLOT {0}"
+        },
+        "CUSTOMIZE:VEHICLE_BUTTON_30": {
+            "status": "added",
+            "new_value": "License Plates"
+        },
+        "ESPORTS:OVERVIEW_FLOAT_76": {
+            "status": "modified",
+            "old_value": "CIRCUIT 1 (UTC)",
+            "new_value": "GROUP STAGE A (UTC+0)"
+        },
+        "ESPORTS:OVERVIEW_FLOAT_77": {
+            "status": "modified",
+            "old_value": "CIRCUIT 2 (UTC)",
+            "new_value": "GROUP STAGE B (UTC+0)"
+        },
+        "ESPORTS:OVERVIEW_FLOAT_78": {
+            "status": "modified",
+            "old_value": "CIRCUIT 3 (UTC)",
+            "new_value": "LAST STAGE (UTC+0)"
+        },
+        "ESPORTS:OVERVIEW_FLOAT_80": {
+            "status": "modified",
+            "old_value": "GRAND FINAL",
+            "new_value": "GRAND FINALS (UTC+0)"
+        },
+        "ESPORTS:OVERVIEW_TITLE_0": {
+            "status": "modified",
+            "old_value": "PUBG NATIONS CUP 2025",
+            "new_value": "PUBG GLOBAL CHAMPIONSHIP 2025"
+        },
+        "LOBBY:TERMINATEPS4_MSG_0": {
+            "status": "added",
+            "new_value": "PUBG: BATTLEGROUNDS is no longer supported on the PlayStation®4 system. To continue playing on the PlayStation®5 console, download the PlayStation®5 version of PUBG: BATTLEGROUNDS and sign in with your existing account."
+        },
+        "LOBBY:TERMINATEXBOXONE_MSG_0": {
+            "status": "added",
+            "new_value": "PUBG: BATTLEGROUNDS is no longer supported on Xbox One. It will continue to be fully supported on Xbox Series devices."
+        },
+        "PCCAFE:TAB_TITLE_1": {
+            "status": "modified",
+            "old_value": "TODAY'S PLAYTIME",
+            "new_value": "TODAY'S PLAY TIME"
+        },
+        "PICKEM:CATEGORY_BR_TITLE_2": {
+            "status": "modified",
+            "old_value": "PGC 2024",
+            "new_value": "PGC 2025"
+        },
+        "PICKEM:INFO_EVENT_BODY_14": {
+            "status": "modified",
+            "old_value": "Earn points for Top 9 Predictions based on their placement.",
+            "new_value": "Earn points for Top 6 Predictions based on their placement."
+        },
+        "PICKEM:INFO_PGC2025_TITLE_0": {
+            "status": "added",
+            "new_value": "GROUP STAGE {0}"
+        },
+        "PICKEM:INFO_PGC2025_TITLE_1": {
+            "status": "added",
+            "new_value": "LAST STAGE"
+        },
+        "PICKEM:INFO_PGC2025_TITLE_2": {
+            "status": "added",
+            "new_value": "TOP {0}"
+        },
+        "PICKEM:INFO_PGC2025_TITLE_3": {
+            "status": "added",
+            "new_value": "MID {0}"
+        },
+        "PICKEM:INFO_PGC2025_TITLE_4": {
+            "status": "added",
+            "new_value": "BOTTOM {0} ELIMINATED"
+        },
+        "PICKEM:INFO_PGC2025_TITLE_5": {
+            "status": "added",
+            "new_value": "WILD CARD"
+        },
+        "PICKEM:INFO_PGC2025_TITLE_6": {
+            "status": "added",
+            "new_value": "GRAND FINALS"
+        },
+        "STORE:FEATURED2025CASHOUTCREW_TITLE_0": {
+            "status": "added",
+            "new_value": "WIN BIG WITH THE CASHOUT CREW"
+        },
+        "STORE:FEATURED2025PGC_BODY_0": {
+            "status": "added",
+            "new_value": "Be a part of history in the making with the official PGC 2025 skins!"
+        },
+        "STORE:FEATURED2025PGC_TITLE_0": {
+            "status": "added",
+            "new_value": "OWN THE LEGACY OF PGC 2025"
+        },
+        "STORE:FEATURED2025PORSCHEWORKSHOP_BODY_0": {
+            "status": "added",
+            "new_value": "Create the Porsche of your dreams at the Workshop. Timeless design, unmistakably Porsche."
+        },
+        "STORE:FEATURED2025PORSCHEWORKSHOP_TITLE_0": {
+            "status": "added",
+            "new_value": "THE PORSCHE OF YOUR DESIRE"
+        },
+        "STORE:FEATURED2025WSUSMP5K_BODY_0": {
+            "status": "added",
+            "new_value": "Bestow an eternal winter upon your enemies with the enchanted reign of Winter Eclipse."
+        },
+        "STORE:FEATURED2025WSUSMP5K_TITLE_0": {
+            "status": "added",
+            "new_value": "ETERNAL WINTER AWAITS"
+        },
+        "STORE:FEATUREDPASS44_BODY_0": {
+            "status": "added",
+            "new_value": "Drive the Battlegrounds in timeless style. An experience that combines performance and precision."
+        },
+        "STORE:FEATUREDPASS44_TITLE_0": {
+            "status": "added",
+            "new_value": "IT'S TIMELESS, IT'S PORSCHE"
+        },
+        "STORE:ITEMS_BUTTON_2025CASHOUTCREW": {
+            "status": "added",
+            "new_value": "CASHOUTCREW"
+        },
+        "STORE:ITEMS_BUTTON_2025PGC": {
+            "status": "added",
+            "new_value": "PGC2025"
+        },
+        "STORE:ITEMS_BUTTON_2025PORSCHEWORKSHOP": {
+            "status": "added",
+            "new_value": "PORSCHE"
+        },
+        "STORE:ITEMS_BUTTON_2025WSUSMP5K": {
+            "status": "added",
+            "new_value": "WINTERECLIPSE"
+        },
+        "STORE:ITEMS_BUTTON_PASS44": {
+            "status": "added",
+            "new_value": "CRAFTERPASSPORSCHE"
+        },
+        "SURVIVORPASS:REWARDS_BODY_17": {
+            "status": "modified",
+            "old_value": "Daily Playtime XP",
+            "new_value": "Daily Play Time XP"
+        },
+        "WORKSHOP:ITEMS_BUTTON_CARRERA": {
+            "status": "added",
+            "new_value": "911 CARRERA GTS"
+        },
+        "WORKSHOP:ITEMS_BUTTON_CAYENNE": {
+            "status": "added",
+            "new_value": "CAYENNE TURBO GT"
+        },
+        "WORKSHOP:ITEMS_BUTTON_LICENSEPLATES": {
+            "status": "added",
+            "new_value": "LICENSE PLATES"
+        },
+        "WORKSHOP:ITEMS_BUTTON_PANAMERA": {
+            "status": "added",
+            "new_value": "PANAMERA TURBO S"
+        },
+        "WORKSHOP:OVERVIEW_BODY_63": {
+            "status": "added",
+            "new_value": "Iconic silhouettes, designed to perfection. Collect Porsche Tokens to craft the brand's prestigious lineup, and redefine what it means to drive in style."
+        },
+        "WORKSHOP:OVERVIEW_BUTTON_20": {
+            "status": "added",
+            "new_value": "PORSCHE"
+        },
+        "WORKSHOP:OVERVIEW_TITLE_52": {
+            "status": "added",
+            "new_value": "THERE IS NO SUBSTITUTE, ONLY PORSCHE"
+        },
+        "WORKSHOP:SPECIALCRAFTING_BODY_34": {
+            "status": "added",
+            "new_value": "Use Porsche Tokens to craft and customize your Porsche. Porsche Tokens can be obtained by purchasing Porsche Loot Cache Packs."
+        },
+        "WORKSHOP:SPECIALCRAFTING_BODY_35": {
+            "status": "added",
+            "new_value": "Porsche Tokens expire on: {0}. Expired tokens disappear and cannot be refunded or exchanged."
+        },
+        "WORKSHOP:SPECIALCRAFTING_TITLE_17": {
+            "status": "added",
+            "new_value": "PORSCHE CRAFTING"
+        },
+        "XB:PLAYTIME": {
+            "status": "modified",
+            "old_value": "PLAYTIME",
+            "new_value": "PLAY TIME"
+        }
+    }
+}
