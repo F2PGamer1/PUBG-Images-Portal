@@ -199,40 +199,42 @@ body.light footer{background:rgba(255,255,255,0.85);color:#111;}
 
 <script>
 const body=document.body;
-const base="https://prod-live-images.playbattlegrounds.com/26979723c83015ee/";
+const base="https://prod-live-images.playbattlegrounds.com/2699232f51db9dfa/";
 let items=[],index=0;
 
 const extraImages=[
 {name:"Contraband Banner", url:`${base}images/wsus/contraband-banner/12012001.png`},
-{name:"Progressive Banner", url:`${base}images/wsus/images/weapons/banner/12012038.png`},
-{name:"Progressive Banner (Level Up)", url:`${base}images/wsus/images/weapons/levelup/12012038.png`},
-{name:"Progressive Banner (Horizontal)", url:`${base}images/wsus/images/weapons/horizontal/12012038.png`},
-{name:"Workshop Banner (Vertical)", url:`${base}images/store-banner/1086.jpg`},
-{name:"Workshop Banner (Horizontal)", url:`${base}images/store-banner/PASS44.jpg`},
+{name:"Progressive Banner", url:`${base}images/wsus/images/weapons/banner/12012039.png`},
+{name:"Progressive Banner - 2", url:`${base}images/wsus/images/weapons/banner/12012029.png`},
+{name:"Progressive Banner (Level Up)", url:`${base}images/wsus/images/weapons/levelup/12012039.png`},
+{name:"Progressive Banner (Level Up) - 2", url:`${base}images/wsus/images/weapons/levelup/12012029.png`},
+{name:"Progressive Banner (Horizontal)", url:`${base}images/wsus/images/weapons/horizontal/12012039.png`},
+{name:"Progressive Banner (Horizontal) - 2", url:`${base}images/wsus/images/weapons/horizontal/12012029.png`},
+{name:"Workshop Banner (Vertical)", url:`${base}images/store-banner/1087.jpg`},
+{name:"Workshop Banner (Horizontal)", url:`${base}images/store-banner/PASS45.jpg`},
 {name:"Pass Bundle Item", url:`${base}gcoinbundle/720/1021.png`},
 {name:"Event Pass Keyart", url:`${base}images/pass/pass-event/keyart/keyart_202510.png`},
 {name:"Event Pass Banner", url:`${base}images/pass/pass-event/banner/banner_background_202510.png`},
 {name:"Event Pass Modal", url:`${base}images/pass/pass-event/modal/modal_keyart_202510.png`},
 {name:"Crafter Pass Banner", url:`${base}images/pass/pass-crafter/banner/banner_background_202511.png`},
 {name:"Crafter Pass Modal", url:`${base}images/pass/pass-crafter/modal/modal_keyart_202511.png`},
-{name:"Survivor Pass Keyart (Track 1)", url:`${base}images/pass/pass-survivor/keyart/track1_202510.png`},
-{name:"Survivor Pass Keyart (Track 2)", url:`${base}images/pass/pass-survivor/keyart/track2_202510.png`},
-{name:"Survivor Pass Keyart (Track 3)", url:`${base}images/pass/pass-survivor/keyart/track3_202510.png`},
-{name:"Survivor Pass Banner", url:`${base}images/pass/pass-survivor/banner/banner_background_202510.png`},
-{name:"Survivor Pass Modal", url:`${base}images/pass/pass-survivor/modal/modal_keyart_202510.png`},
+{name:"Survivor Pass Keyart (Track 1)", url:`${base}images/pass/pass-survivor/keyart/track1_202512.png`},
+{name:"Survivor Pass Keyart (Track 2)", url:`${base}images/pass/pass-survivor/keyart/track2_202512.png`},
+{name:"Survivor Pass Keyart (Track 3)", url:`${base}images/pass/pass-survivor/keyart/track3_202512.png`},
+{name:"Survivor Pass Banner", url:`${base}images/pass/pass-survivor/banner/banner_background_202512.png`},
+{name:"Survivor Pass Modal", url:`${base}images/pass/pass-survivor/modal/modal_keyart_202512.png`},
 {name:"Contender Level Up 1", url:`${base}images/contender/levelup/17000001.png`},
 {name:"Contender Level Up 2", url:`${base}images/contender/levelup/17000002.png`},
 {name:"Contender Thumbnail", url:`${base}images/contender/sideMenuBanner/17000001.jpg`},
 {name:"Contender Banner 1", url:`${base}images/contender/banner/17000001.png`},
 {name:"Contender Banner 2", url:`${base}images/contender/banner/17000002.png`},
 {name:"Contender Banner 3", url:`${base}images/contender/banner/17000003.png`},
-{name:"Currency Porsche", url:`${base}images/currency/seasonaltoken.202511porsche/720.png`},
-{name:"Currency Porsche Loot", url:`${base}images/currency/lootcachepiece.202511porsche/720.png`},
+{name:"Currency Balenciaga", url:`${base}images/currency/seasonaltoken.202512balenciaga/720.png`},
+{name:"Currency Balenciaga", url:`${base}images/currency/lootcachepiece.202512balenciaga/720.png`},
 {name:"Currency PGC 2025", url:`${base}images/currency/esportspoint/720.png`},
 {name:"Banner Horizontal PGC 2025", url:`${base}images/store-banner/2025PGC.jpg`},
-{name:"Banner Horizontal CASHOUT CREW", url:`${base}images/store-banner/2025CASHOUTCREW.jpg`},
-{name:"Workshop Banner Porsche", url:`${base}images/store-banner/2025PORSCHEWORKSHOP.jpg`},
-{name:"Wsus Banner MP5k", url:`${base}images/store-banner/2025WSUSMP5K.jpg`}
+{name:"Banner Horizontal WSUS Resale", url:`${base}images/store-banner/2025SPRINGFESTWSUSRESALE.jpg`},
+{name:"Banner Horizontal WSUS", url:`${base}images/store-banner/2025WSUSAWM.jpg`},
 ];
 
 (async()=>{
