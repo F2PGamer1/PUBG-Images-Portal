@@ -1,4 +1,5 @@
-{
+
+ {
         "ITEM:11010692": {
             "status": "added",
             "new_value": {
@@ -937,3 +938,5 @@
                 "description": "This Voucher will expire on {0}. Expired Vouchers disappear and cannot be refunded or exchanged."
             }
         }
+}
+
